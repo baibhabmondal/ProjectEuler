@@ -1,7 +1,7 @@
 # ProjectEuler
 Solutions to Project Euler problems ( projecteuler.net ). Taking step, one at a time. 
 
-##Questions Solved: 
+## Questions Solved: 
 (Only the optimized solutions are uploaded here) 
 
 ---
